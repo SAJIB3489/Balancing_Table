@@ -31,8 +31,7 @@ Our solution addresses these challenges by introducing a self-balancing table th
 
 
 # VIDEO  
+![video](
+https://amksavonia-my.sharepoint.com/:v:/g/personal/md_sajib_pramanic_edu_savonia_fi/EU7R_d-bmGZIj79L25YZF8MBw07vUwrip7E_vqRFEz2pSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6LyNJp)
 
-https://amksavonia-my.sharepoint.com/:v:/g/personal/md_sajib_pramanic_edu_savonia_fi/EU7R_d-bmGZIj79L25YZF8MBw07vUwrip7E_vqRFEz2pSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6LyNJp
-
-# Linkedin  
-https://www.linkedin.com/posts/md-sajib-pramanic-866849245_today-we-are-delighted-to-showcase-our-innovative-activity-7135750865830723584-oTU7?utm_source=share&utm_medium=member_desktop
+![Linkedin Post](https://www.linkedin.com/posts/md-sajib-pramanic-866849245_today-we-are-delighted-to-showcase-our-innovative-activity-7135750865830723584-oTU7?utm_source=share&utm_medium=member_desktop)
